@@ -1,5 +1,5 @@
 # grafkomuhuy
-Project untuk tugas akhir MK. Grafika Komputer 2020.
+Project untuk tugas akhir mata kuliah Grafika Komputer (KOM 300) 2020.
 
 
 ## Roles dan Anggota
