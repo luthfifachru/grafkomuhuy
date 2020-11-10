@@ -6,7 +6,7 @@ Project untuk tugas akhir mata kuliah Grafika Komputer (KOM 300) 2020.
 <table>
     <thead>
         <tr>
-            <th></th>
+            <th>No.</th>
             <th>Nama</th>
             <th>Nim</th>
             <th>Role</th>
