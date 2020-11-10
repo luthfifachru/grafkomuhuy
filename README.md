@@ -2,19 +2,21 @@
 Project untuk tugas akhir MK. Grafika Komputer 2020.
 
 
-##Roles dan Anggota
+#Roles dan Anggota
+| Indra Rizky Gunawan
+| Zidane Ibrahim Fadela
+| Luthfi Fachruddin
+
+#Nama Game
 
 
-##Nama Game
+#Story Game
 
 
-##Story Game
+#Game Rules
 
 
-##Game Rules
-
-
-##Game Features
+#Game Features
 
 
 #In-Game Pictures
