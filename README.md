@@ -17,7 +17,7 @@ Project untuk tugas akhir MK. Grafika Komputer 2020.
         <tr>
             <td>1</td>
             <td>Indra Rizky Gunawan</td>
-            <td>G64180012</td>
+            <td>G64180010</td>
             <td>Full-Stack</td>
         </tr>
         <tr>
