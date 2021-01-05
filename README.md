@@ -38,7 +38,7 @@ Project untuk tugas akhir mata kuliah Grafika Komputer (KOM 300) 2020.
 Arbiter
 
 ## Story Game
-Seekor tikus yang berusaha kabur dari kejaran kucing harus terus berlari di dalam hutan agar bisa lolos dari kejarannya. Namun, di dalam hutan tersebut ternyata tidak mudah untuk dilewati, terdapat banyak rintangan yang menghalangi jalan si tikus. Disamping itu, sang kucing tidak mau kalah untuk mengejarnya. Ia berusaha secepat mungkin untuk menangkap tikus tersebut meski harus melewati rintagan yang sama. Tikus terus berlari dari kejaran kucing dan mengumpulkan koin skor!
+Seekor tikus yang berusaha kabur dari kejaran kucing harus terus berlari di dalam hutan agar bisa lolos dari kejarannya. Namun, di dalam hutan tersebut ternyata tidak mudah untuk dilewati, terdapat banyak rintangan yang menghalangi jalan si tikus. Disamping itu, sang kucing tidak mau kalah untuk mengejarnya. Ia berusaha secepat mungkin untuk menangkap tikus tersebut meski harus melewati rintangan yang sama. Tikus terus berlari dari kejaran kucing dan mengumpulkan koin skor!
 
 ## Game Rules
 User harus lari dari kejaran kucing dengan melewati berbagai rintangan dan mengumpulkan koin sebanyak-banyaknya.
