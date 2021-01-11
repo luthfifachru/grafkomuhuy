@@ -48,7 +48,11 @@ Mendapatkan score (koin) terbanyak.
 
 ## Dokumentasi
 ![Screenshot (710)](https://user-images.githubusercontent.com/60083946/104189554-69d95d80-544d-11eb-85fc-5f5c5670515e.png)
+
 ![Screenshot (711)](https://user-images.githubusercontent.com/60083946/104189580-72319880-544d-11eb-9ac3-9f252589c6c5.png)
+
 ![Screenshot (712)](https://user-images.githubusercontent.com/60083946/104189592-76f64c80-544d-11eb-8444-e84c6864fb7e.png)
+
 ![Screenshot (713)](https://user-images.githubusercontent.com/60083946/104189611-7e1d5a80-544d-11eb-8ad8-b420fd01166e.png)
+
 ![Screenshot (714)](https://user-images.githubusercontent.com/60083946/104189641-88d7ef80-544d-11eb-9a93-ef9325378160.png)
