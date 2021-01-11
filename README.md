@@ -56,3 +56,5 @@ Mendapatkan score (koin) terbanyak.
 ![Screenshot (713)](https://user-images.githubusercontent.com/60083946/104189611-7e1d5a80-544d-11eb-8ad8-b420fd01166e.png)
 
 ![Screenshot (714)](https://user-images.githubusercontent.com/60083946/104189641-88d7ef80-544d-11eb-9a93-ef9325378160.png)
+
+Assets ada di branch master
