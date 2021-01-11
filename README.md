@@ -1,6 +1,6 @@
 # grafkomuhuy (Kelompok 7 Pararel 1)
 Project untuk tugas akhir mata kuliah Grafika Komputer (KOM 300) 2020.
-Assets game ada pada branch master.
+[Assets game ada pada branch master]
 
 
 ## Roles dan Anggota
@@ -35,7 +35,7 @@ Assets game ada pada branch master.
     </tbody>
 </table>
 
-## Nama Games
+## Nama Game
 Arbiter
 
 ## Story Game
